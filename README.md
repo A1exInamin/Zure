@@ -25,8 +25,12 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
- 
+
 ## 更新日志
+2019-10-12<br>
+v1.7.3<br>
+1.图标上新：AbemaTV_Letter.png、All4.png、Amazon.png、Bahamut.png、DAZN.png、Deezer.png、ITV.png、JOOX.png、My5.png、PBS.png、LiTV.png、LineTV.png、AbemaTV.png<br>
+
 2019-9-25<br>
 v1.7.2.1<br>
 1.图标调优：Available.png、Round_Robin.png<br>
